@@ -1,5 +1,6 @@
 ﻿using Apache.NMS;
 using Newtonsoft.Json;
+using Spring.Messaging.Nms.Support.Converter;
 using System;
 using System.Collections;
 
